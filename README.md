@@ -1,21 +1,12 @@
-# Amizara Gems Website
+# Amizara Diamonds Website
 
-Static responsive website built with HTML, CSS and JavaScript.
-
-## Direction
-- Professional luxury diamond / jewellery-house aesthetic
-- Blue and white visual system
-- Image-led composition
-- No ecommerce functionality
-- Subtle scroll reveal and parallax effects
-- Responsive navigation and mobile layout
+Single-page static website built with HTML, CSS and JavaScript.
 
 ## Files
-- index.html
-- styles.css
-- script.js
+- `index.html` — complete one-page website with Home, About, Expertise, Presence and Contact sections
+- `styles.css` — responsive design and animations
+- `script.js` — mobile menu, scroll reveals, parallax, hero slider, navigation highlighting and contact-form demo state
 
-## Important
-The current enquiry email (`info@amizaragems.com`) is a placeholder unless that is the official address. Replace it before launch if needed.
-
-The site uses remotely hosted Unsplash photography. For production, replace those URLs with owned/licensed Amizara photography for a stronger brand identity and faster control over image delivery.
+## Notes
+- The contact form is front-end only until connected to an email/WhatsApp/backend service.
+- Replace placeholder business contact details with official Amizara Diamonds details before launch.
